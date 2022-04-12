@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shxxs
 - 👀 I’m interested in ... cybersecurity, video and photo editing
-- 🌱 I’m currently learning ... c,c++,java
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ...java,python,git
+- 💞️ I’m looking to collaborate on ...cybersecurity,vfx.graphics design
 - 📫 How to reach me ...srihaas13@gmail.com
 
 <!---
